@@ -1,0 +1,4 @@
+[submodule "drutes-dev"]
+	path = drutes-dev
+	url = https://github.com/michalkuraz/drutes-dev.git
+	branch = testing

@@ -7,36 +7,36 @@
   
  DRUtES is initializing, reading input files
  ---------------------------------------------------------------
- 16hrs : 00min : 15.575s  -  2020/12/09    total number of parallel images is:                    1
+ 16hrs : 44min : 08.855s  -  2021/03/01    total number of parallel images is:                    1
  ---------------------------------------------------------------
- 16hrs : 00min : 15.588s  -  2020/12/09    reading input files and allocating...
+ 16hrs : 44min : 08.856s  -  2021/03/01    reading input files and allocating...
  ---------------------------------------------------------------
- 16hrs : 00min : 15.614s  -  2020/12/09    number of nodes:                   61 number of elements:                   60
+ 16hrs : 44min : 08.858s  -  2021/03/01    number of nodes:                   61 number of elements:                   60
  ---------------------------------------------------------------
- 16hrs : 00min : 15.628s  -  2020/12/09    analyzing mesh structure...
+ 16hrs : 44min : 08.861s  -  2021/03/01    analyzing mesh structure...
  ---------------------------------------------------------------
- 16hrs : 00min : 15.633s  -  2020/12/09    DRUtES solves coupled water and heat flow considering freezing and melting
+ 16hrs : 44min : 08.871s  -  2021/03/01    DRUtES solves coupled water and heat flow considering freezing and melting
  ---------------------------------------------------------------
- 16hrs : 00min : 15.633s  -  2020/12/09    making output files for observation time
+ 16hrs : 44min : 08.872s  -  2021/03/01    making output files for observation time
  ---------------------------------------------------------------
- 16hrs : 00min : 15.650s  -  2020/12/09    go 4 solving
+ 16hrs : 44min : 08.891s  -  2021/03/01    go 4 solving
  ---------------------------------------------------------------
- 16hrs : 00min : 15.748s  -  2020/12/09    current simulation time:   1.0000000000000000 total iteration count:                    2
+ 16hrs : 44min : 08.965s  -  2021/03/01    current simulation time:   1.0000000000000000 total iteration count:                    2
  ---------------------------------------------------------------
- 16hrs : 00min : 26.324s  -  2020/12/09    making output files for observation time
+ 16hrs : 44min : 35.003s  -  2021/03/01    making output files for observation time
  ---------------------------------------------------------------
- 16hrs : 00min : 36.364s  -  2020/12/09    making output files for observation time
+ 16hrs : 45min : 44.697s  -  2021/03/01    making output files for observation time
  ---------------------------------------------------------------
- 16hrs : 00min : 47.528s  -  2020/12/09    making output files for observation time
+ 16hrs : 47min : 32.852s  -  2021/03/01    making output files for observation time
  ---------------------------------------------------------------
- 16hrs : 01min : 03.304s  -  2020/12/09    making output files for observation time
+ 16hrs : 51min : 46.686s  -  2021/03/01    making output files for observation time
  ---------------------------------------------------------------
- 16hrs : 01min : 03.332s  -  2020/12/09    making output files for observation time
+ 16hrs : 51min : 46.723s  -  2021/03/01    making output files for observation time
  ---------------------------------------------------------------
- 16hrs : 01min : 03.486s  -  2020/12/09    # real elapsed CPU time =   48.000000000000000 s
+ 16hrs : 51min : 46.838s  -  2021/03/01    # real elapsed CPU time =   7.6341666666674426 min
  ---------------------------------------------------------------
- 16hrs : 01min : 03.491s  -  2020/12/09    minimal adjusted time step was  0.91011600000000015
+ 16hrs : 51min : 46.848s  -  2021/03/01    minimal adjusted time step was   1.0000000000000000
  ---------------------------------------------------------------
- 16hrs : 01min : 03.491s  -  2020/12/09    F I N I S H E D !!!!!
+ 16hrs : 51min : 46.849s  -  2021/03/01    F I N I S H E D !!!!!
  ---------------------------------------------------------------
- 16hrs : 01min : 03.517s  -  2020/12/09    Peak RAM  consumption on image                    1 was:                    0 kB
+ 16hrs : 51min : 46.878s  -  2021/03/01    Peak RAM  consumption on image                    1 was:                    0 kB

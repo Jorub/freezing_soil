@@ -1,21 +1,21 @@
 Name:	drutes
 State:	S (sleeping)
-Tgid:	10317
-Pid:	10317
-PPid:	1921
+Tgid:	332
+Pid:	332
+PPid:	10
 TracerPid:	0
 Uid:	1000	1000	1000	1000
 Gid:	1000	1000	1000	1000
 FDSize:	10
 Groups:	
 VmPeak:	0 kB
-VmSize:	18968 kB
+VmSize:	19060 kB
 VmLck:	0 kB
 VmHWM:	0 kB
-VmRSS:	3276 kB
+VmRSS:	3312 kB
 VmData:	0 kB
 VmStk:	0 kB
-VmExe:	2724 kB
+VmExe:	2828 kB
 VmLib:	0 kB
 VmPTE:	0 kB
 Threads:	1
